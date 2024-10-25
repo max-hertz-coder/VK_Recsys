@@ -1,0 +1,6 @@
+polars
+scipy
+implicit
+pandas
+pyarrow
+ipykernel
